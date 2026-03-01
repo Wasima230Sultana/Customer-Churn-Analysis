@@ -153,7 +153,7 @@ Monitor low satisfaction scores as early churn warning signals.
 👥 5. Early Tenure Intervention
 
 Provide onboarding and engagement incentives for new customers.</p>
-
+<img src="churn.png"/>
 <h3>🏁 Final Conclusion</h3>
 <p>
 The CatBoost model, optimized with a financially-driven threshold of 0.17, provides a practical and deployable churn prediction system.
